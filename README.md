@@ -9,3 +9,13 @@
   - Collaborated on result analysis, demonstrating competitive performance of the fine-tuned model compared to existing supervised models.  
 - **Technical Tools:** Python, Jupyter Notebooks, GitHub, Natural Language Processing (NLP), Computer Vision, Radiological Datasets.  
 - **User Study:** Conducted usability testing, analyzed feedback, and suggested interface improvements for enhanced user control and intuitiveness.  
+
+**Dataset**
+
+Radiology Objects in COntext (ROCO): A Multimodal Image Dataset
+
+Reference: 
+O. Pelka, S. Koitka, J. Rückert, F. Nensa, C.M. Friedrich,
+"Radiology Objects in COntext (ROCO): A Multimodal Image Dataset".
+MICCAI Workshop on Large-scale Annotation of Biomedical Data and Expert Label Synthesis (LABELS) 2018, September 16, 2018, Granada, Spain. Lecture Notes on Computer Science (LNCS), vol. 11043, pp. 180-189, Springer Cham, 2018.
+doi: 10.1007/978-3-030-01364-6_20
